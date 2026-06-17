@@ -88,6 +88,13 @@ I am a passionate Full-Stack Software Engineer based in **Rasht, Iran**. I speci
   </tr>
 </table>
 
+<br/>
+
+- ⚽️ **[1ybet](https://github.com/sobhanashine/1ybet)**: A premium RTL World Cup 2026 score predictor PWA & Telegram Mini App built with Next.js 16, Nest, Drizzle ORM, and Supabase.
+- 🃏 **[poker-bot](https://github.com/sobhanashine/poker-bot)**: A fully functional Telegram Poker Game Bot with interactive card gameplay, matchmaking, and group game sessions.
+- 🤖 **[research-agent](https://github.com/sobhanashine/research-agent)**: An autonomous AI research assistant powered by LangChain and LLMs to perform deep web intelligence research and summarization.
+- 💼 **[linkedin-agent](https://github.com/sobhanashine/linkedin-agent)**: An intelligent AI agent utilizing LangChain and LLMs to curate, draft, schedule, and publish professional LinkedIn content.
+
 ---
 
 ### 📈 GitHub Contribution Wave
