@@ -1,6 +1,12 @@
 # 🫵 Hello there! I'm Sobhan (sobhanashine) 👋
 
-### 🚀 Full-Stack Developer | AI & Telegram Bot Builder
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=16E07F&width=435&lines=Full-Stack+Developer;Building+Next.js+%26+NestJS;AI+%26+Telegram+Integrations;Based+in+Rasht,+Iran" alt="Typing SVG" />
+  </a>
+</p>
+
+### 🚀 Full-Stack Developer
 I am a passionate Full-Stack Software Engineer based in **Rasht, Iran**. I specialize in building high-performance, responsive web applications, Telegram Mini Apps (TMAs), database-backed architectures, and AI-agent automation pipelines.
 
 ---
