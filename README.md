@@ -65,35 +65,28 @@ I am a passionate Full-Stack Software Engineer based in **Rasht, Iran**. I speci
   <tr>
     <td width="50%">
       <a href="https://github.com/sobhanashine/1ybet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=1ybet&theme=tokyonight" alt="1ybet" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=1ybet&theme=tokyonight&cache_seconds=1800&v=2" alt="1ybet" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/sobhanashine/poker-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=poker-bot&theme=tokyonight" alt="poker-bot" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=poker-bot&theme=tokyonight&cache_seconds=1800&v=2" alt="poker-bot" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/sobhanashine/research-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=research-agent&theme=tokyonight" alt="research-agent" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=research-agent&theme=tokyonight&cache_seconds=1800&v=2" alt="research-agent" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/sobhanashine/linkedin-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=linkedin-agent&theme=tokyonight" alt="linkedin-agent" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=linkedin-agent&theme=tokyonight&cache_seconds=1800&v=2" alt="linkedin-agent" width="100%" />
       </a>
     </td>
   </tr>
 </table>
-
-<br/>
-
-- ⚽️ **[1ybet](https://github.com/sobhanashine/1ybet)**: A premium RTL World Cup 2026 score predictor PWA & Telegram Mini App built with Next.js 16, Nest, Drizzle ORM, and Supabase.
-- 🃏 **[poker-bot](https://github.com/sobhanashine/poker-bot)**: A fully functional Telegram Poker Game Bot with interactive card gameplay, matchmaking, and group game sessions.
-- 🤖 **[research-agent](https://github.com/sobhanashine/research-agent)**: An autonomous AI research assistant powered by LangChain and LLMs to perform deep web intelligence research and summarization.
-- 💼 **[linkedin-agent](https://github.com/sobhanashine/linkedin-agent)**: An intelligent AI agent utilizing LangChain and LLMs to curate, draft, schedule, and publish professional LinkedIn content.
 
 ---
 
