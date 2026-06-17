@@ -61,11 +61,42 @@ I am a passionate Full-Stack Software Engineer based in **Rasht, Iran**. I speci
 
 ### 📂 Featured Open Source Projects
 
-* ⚽️ **[1ybet](https://github.com/sobhanashine/1ybet)**: A premium World Cup 2026 score predictor PWA and Telegram Mini App (TMA). Backed by Next.js, Drizzle ORM, Supabase, and automated with GitHub Action sync workflows sending flag-enabled Telegram reminder notifications.
-* 🤖 **[research-agent](https://github.com/sobhanashine/research-agent)** & **[linkedin-agent](https://github.com/sobhanashine/linkedin-agent)**: AI agent pipelines utilizing LangChain and LLMs to automate deep content research and trigger programmatic social networking/publishing routines.
-* 🃏 **[poker-bot](https://github.com/sobhanashine/poker-bot)**: A functional Telegram Poker Bot implementation, providing interactive card game dynamics directly in chat channels.
-* 📋 **[nazarato](https://github.com/sobhanashine/nazarato)**: A customized Persian survey/poll engine and platform.
-* 📦 **[habit-tracker-nest](https://github.com/sobhanashine/habit-tracker-nest)**: A clean, RESTful habit-tracking backend architecture built using NestJS.
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sobhanashine/1ybet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=1ybet&theme=tokyonight" alt="1ybet" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sobhanashine/poker-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=poker-bot&theme=tokyonight" alt="poker-bot" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sobhanashine/research-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=research-agent&theme=tokyonight" alt="research-agent" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sobhanashine/linkedin-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sobhanashine&repo=linkedin-agent&theme=tokyonight" alt="linkedin-agent" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Contribution Wave
+
+<p align="center">
+  <a href="https://github.com/sobhanashine">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhanashine&theme=tokyonight&bg_color=11201a&color=16e07f&line=16e07f&point=e7f5ee" alt="Activity Graph" width="100%" />
+  </a>
+</p>
 
 ---
 
