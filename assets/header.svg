@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sobhan Ashineh — Full-stack engineer</title>
+  <desc id="desc">Backend systems, web experiences, and AI tools. An architectural diagram connects the web, API, and data layers.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#20322E" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="#101C1A"/>
+  <rect x="720" y="24" width="456" height="312" rx="12" fill="url(#grid)"/>
+  <path d="M64 54H100" stroke="#91E2BA" stroke-width="4"/>
+  <text x="116" y="60" fill="#B7C9C1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing="2">SOBHANASHINE / GITHUB</text>
+  <text x="60" y="155" fill="#F4F3E9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2.5">Sobhan Ashineh<tspan fill="#91E2BA">.</tspan></text>
+  <text x="64" y="211" fill="#91E2BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="500" letter-spacing="-.5">Full-stack engineer.</text>
+  <text x="64" y="281" fill="#C2CEC6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="22">Backend systems · web experiences · AI tools</text>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M800 98H824M800 98V180H824M800 180V262H824" stroke="#639F85" stroke-width="2"/>
+    <path d="M1052 98H1080V262H1052" stroke="#639F85" stroke-width="2"/>
+    <path d="M1052 180H1096" stroke="#639F85" stroke-width="2"/>
+    <circle cx="800" cy="180" r="5" fill="#91E2BA"/>
+    <circle cx="1096" cy="180" r="5" fill="#91E2BA"/>
+    <rect x="824" y="68" width="228" height="60" rx="10" fill="#192C26" stroke="#49745F"/>
+    <rect x="824" y="150" width="228" height="60" rx="10" fill="#91E2BA"/>
+    <rect x="824" y="232" width="228" height="60" rx="10" fill="#192C26" stroke="#49745F"/>
+    <path d="M850 88L840 98L850 108M866 88L876 98L866 108" stroke="#91E2BA" stroke-width="2"/>
+    <path d="M843 180H873M850 170V190M866 170V190" stroke="#17372A" stroke-width="2"/>
+    <ellipse cx="858" cy="254" rx="15" ry="6" stroke="#91E2BA" stroke-width="2"/>
+    <path d="M843 254V270C843 278 873 278 873 270V254M843 262C843 270 873 270 873 262" stroke="#91E2BA" stroke-width="2"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" letter-spacing="2">
+    <text x="905" y="105" fill="#DDE7DF">WEB</text>
+    <text x="905" y="187" fill="#17372A" font-weight="700">API</text>
+    <text x="905" y="269" fill="#DDE7DF">DATA</text>
+  </g>
+</svg>
